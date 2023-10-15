@@ -1,0 +1,2 @@
+def insert():
+    assert True
